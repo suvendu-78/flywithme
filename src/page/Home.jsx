@@ -62,25 +62,25 @@ const Home = () => {
       from: "Bhubaneswar",
       to: "Bengaluru",
       price: "₹3,499",
-      image: "/images/bengaluru.jpg",
+      image: "/city.jpeg",
     },
     {
       from: "Bhubaneswar",
       to: "Mumbai",
       price: "₹4,199",
-      image: "/images/mumbai.jpg",
+      image: "/city.jpeg",
     },
     {
       from: "Bhubaneswar",
       to: "Hyderabad",
       price: "₹3,899",
-      image: "/images/hyderabad.jpg",
+      image: "/city.jpeg",
     },
     {
       from: "Bhubaneswar",
       to: "Delhi",
       price: "₹4,299",
-      image: "/images/delhi.jpg",
+      image: "/city.jpeg",
     },
   ];
 
